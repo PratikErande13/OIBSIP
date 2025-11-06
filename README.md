@@ -7,7 +7,7 @@ Each project demonstrates my understanding of HTML, CSS, JavaScript, and modern 
 
 Wheneever you want to run the code please install your own node_modules file !!!!
 
-IMPORTANT NOTE : Please install your own noed_modules file from terminal!!
+IMPORTANT NOTE : Please install your own node_modules file from terminal!!
 
 
 #oasisinfobyte
